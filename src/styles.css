@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.transfer-container {
+  display: flex;
+}
+
+.container {
+  margin-right: 5px
+  height: 200px;
+  width: 150px;
+  border: 2px solid black;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  
+}
